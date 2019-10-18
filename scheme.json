@@ -3,7 +3,7 @@
         "appearance": "dark",
         "colors": {
             "accent": {
-		"alpha_multiplier": 0.25,
+		"alpha_multiplier": "0.25",
                 "color_identifier": "sky_300"
             },
             "action_sheet_action_foreground": {
